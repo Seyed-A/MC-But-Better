@@ -1,7 +1,7 @@
 # MC-But-Better
 This is a repository for the MC But Better Modpack found at modrinth.com/project/mc-but-better-spinalthread360
 
-The mod description:
+# The mod description:
 
 # Project Overview
 This project features heavily optimized, modded configurations designed to elevate the general gameplay experience. The modpack is distributed in the `.mrpack` format and includes an `overrides` folder containing all necessary files.
